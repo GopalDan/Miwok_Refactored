@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5d4037</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="number_catagory_color">#FD8E09</color>
+    <color name="family_catagory_color">#379237</color>
+    <color name="color_catagory">#8800A0</color>
+    <color name="phrase_catagory_color">#16AFCA</color>
+    <color name="tabBackgroundColor">#4A312A</color>
+</resources>
